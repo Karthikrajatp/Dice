@@ -1,4 +1,4 @@
 # Dice
-
-### A DICE GAME USING RANDOM FUNCTION 
+A dice game using Random Function.
+<br>
 Credits - The APP Brewery 
